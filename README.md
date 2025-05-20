@@ -22,8 +22,6 @@ Ideal for:
 - Students taking introductory programming courses  
 - Anyone revisiting Python fundamentals
 
-## 📄 License
-This project is open for learning and sharing. Feel free to use, modify, or build upon it.
 
 This notebook is part of my personal learning journey in Python programming. Please feel free to use it or improve upon it.
 
