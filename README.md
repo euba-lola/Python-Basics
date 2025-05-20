@@ -2,11 +2,17 @@
 This repository contains a Jupyter Notebook titled PYTHON BASICS.ipynb, which introduces foundational concepts in Python programming. It is ideal for beginners learning Python and understanding key concepts interactively.
 
 📂 Contents
+
 ✅ Variables and Data Types
+
 🔁 Loops and Conditional Statements
+
 🧮 Basic Arithmetic and Operators
+
 📥 Input and Output Handling
+
 🧠 Simple Logic Building with Examples
+
 
 🛠️ How to Use
 Clone or download the repository.
