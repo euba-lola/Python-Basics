@@ -1,10 +1,10 @@
-# 🐍 Python Practice Notebooks
+# Python Practice Notebooks
 
 This repository contains beginner-friendly Jupyter Notebooks designed to help you build a solid foundation in Python programming. Each notebook focuses on a specific concept with practical examples to support hands-on learning.
 
 ---
 
-## 📚 Included Notebooks
+## Included Notebooks
 
 ### 1. `PYTHON BASICS.ipynb`
 Learn the fundamentals of Python, including:
@@ -23,7 +23,7 @@ A focused introduction to arrays (using Python lists), covering:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Clone or download this repository.
 2. Open the `.ipynb` files using:
    - [Jupyter Notebook](https://jupyter.org/)
@@ -31,7 +31,7 @@ A focused introduction to arrays (using Python lists), covering:
 
 ---
 
-## 🎯 Who It's For
+## Who It's For
 These notebooks are ideal for:
 - Python beginners  
 - Students preparing for coding interviews or assessments  
@@ -39,6 +39,6 @@ These notebooks are ideal for:
 
 ---
 
-## 📄 License
+## License
 Open for learning and sharing. You are welcome to use, modify, and build upon these notebooks for educational purposes.
 
